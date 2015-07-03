@@ -5,8 +5,13 @@
         <group>
             <file>file:/C:/Xampp/htdocs/DAPPIE/Presentation/Index.html</file>
             <file>file:/C:/Xampp/htdocs/DAPPIE/Entities/Consultatie.php</file>
+            <file>file:/C:/Xampp/htdocs/DAPPIE/Business/KlantService.php</file>
             <file>file:/C:/Xampp/htdocs/DAPPIE/Entities/Dierenarts.php</file>
+            <file>file:/C:/Xampp/htdocs/DAPPIE/Entities/Klant.php</file>
+            <file>file:/C:/Xampp/htdocs/DAPPIE/Business/ConsultatieService.php</file>
             <file>file:/C:/Xampp/htdocs/DAPPIE/Entities/Dier.php</file>
+            <file>file:/C:/Xampp/htdocs/DAPPIE/Business/DierService.php</file>
+            <file>file:/C:/Xampp/htdocs/DAPPIE/Business/DierenartsService.php</file>
         </group>
     </open-files>
 </project-private>
